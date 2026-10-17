@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise - Expense Tracker & Google Sheets Sync",
+  "description": "Track monthly and yearly expenses with intuitive dashboards and automated, beautifully styled Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
